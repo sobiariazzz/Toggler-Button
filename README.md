@@ -1,1 +1,1 @@
-# Toggler-Button
+# Toggle-Button
